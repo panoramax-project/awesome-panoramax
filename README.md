@@ -12,7 +12,7 @@ A collection of awesome things that use or support Panoramax !
 
 ## Panoramax semantic tagging
 
-- **[Panoramax Missing Tags](https://gitlab.com/mw014/panoramax-missing-tags)** quickly add missing transport=* tags to Panoramax sequences
+- **[Panoramax Missing Tags](https://panoramax-missing-tags-a75613.gitlab.io/)** quickly add missing transport=* tags to Panoramax sequences ([source](https://gitlab.com/mw014/panoramax-missing-tags))
 
 ## GIS tools
 
@@ -35,3 +35,5 @@ A collection of awesome things that use or support Panoramax !
 
 ## Statistics / data-viz
 - **[Streetscape Tracker](https://github.com/jonfroehlich/streetscape-tracker)** Analyze street-level imagery coverage and temporal patterns
+- **[Panoramax Tags](https://www.cipherbliss.com/panoramax-tags/)** statistics on Panoramax semantic tags
+
