@@ -13,6 +13,7 @@ A collection of awesome things that use or support Panoramax !
 ## Panoramax semantic tagging
 
 - **[Panoramax Missing Tags](https://panoramax-missing-tags-a75613.gitlab.io/)** quickly add missing transport=* tags to Panoramax sequences ([source](https://gitlab.com/mw014/panoramax-missing-tags))
+- **[Pan360 FixExif](https://panofix.my-heb.eu/)** fix manually pitch/roll/yaw tags on your uploaded pictures.
 
 ## GIS tools
 
