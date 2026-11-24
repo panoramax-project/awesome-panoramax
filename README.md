@@ -9,6 +9,7 @@ A collection of awesome things that use or support Panoramax !
 ## Pre-upload tools
 
 - **[GeoSillage](https://github.com/qhess34/geosillage)** pre-upload preparation tool to fix location, orientation and more
+- **[Panoramax GoPro Downloader](https://codeberg.org/gedankenstuecke/panoramax-gopro-downloader)** small python tool to copy images from a GoPro/SD card into per-series folders. 
 
 ## Panoramax semantic tagging
 
@@ -37,4 +38,4 @@ A collection of awesome things that use or support Panoramax !
 ## Statistics / data-viz
 - **[Streetscape Tracker](https://github.com/jonfroehlich/streetscape-tracker)** Analyze street-level imagery coverage and temporal patterns
 - **[Panoramax Tags](https://www.cipherbliss.com/panoramax-tags/)** statistics on Panoramax semantic tags
-
+- **[Panoramax Mastodon Bot](https://codeberg.org/gedankenstuecke/panoramax-mastodon-bot/)** Posts global & per-instance statistics every day, [live on en.osm.town](https://en.osm.town/@PanoramaxContribs) 
