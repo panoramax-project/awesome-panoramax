@@ -4,7 +4,7 @@
 
 A collection of awesome things that use or support Panoramax !
 
-*To add new cool tools you can [open an merge-request on our gitlab repo](https://gitlab.com/panoramax/docs/awesome-panoramax/-/merge_requests/new).
+*To add new cool tools you can [open an merge-request on our gitlab repo](https://gitlab.com/panoramax/docs/awesome-panoramax/-/merge_requests/new).*
 
 ## Pre-upload tools
 
